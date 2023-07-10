@@ -2,7 +2,7 @@
 
 ## Structure
 
-![ShopsRUs drawio](https://github.com/ybalcin/RetailStore/assets/47143192/b4c009a5-edab-4fe4-926f-027dedeba7cb)
+![ShopsRUs drawio](https://github.com/ybalcin/RetailStore/assets/47143192/72f18b3c-9a82-4f29-ba3d-8c853f2a427c)
 
 ProductCategory;
 "grocery",
